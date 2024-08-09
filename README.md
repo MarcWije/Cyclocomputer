@@ -2,10 +2,10 @@ This project was designed in order to fulfill the requirements of the Individual
 All the documentation can be found in the Documentation PDF
 
 <img 
-    style="display: block; 
-           margin-left: auto;
-           margin-right: auto;
-           width: 30%;"
+    style="  display: block;
+              margin-left: auto;
+              margin-right: auto;
+              width: 50%;"
     src="External.jpg" 
-    alt="Our logo">
+    alt="external">
 </img>
